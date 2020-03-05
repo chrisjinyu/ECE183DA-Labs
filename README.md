@@ -1,5 +1,5 @@
 # ECE183DA-Labs, Caelus
-Richard Wang, Timothy Lee, and Christina Yu
+Richard Wang, Timothy Lee, and Christian Yu
 
 ## Lab 2:
 Please see /software/paperbot for robot code and /software/simulator_and_interface for EKF state estimator code. See their respective READMEs for more information.
